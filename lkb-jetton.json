@@ -1,0 +1,7 @@
+{
+  "name": "LKB Jetton",
+  "description": "LKB TON Jettons — the future is now.",
+  "image": "https://raw.githubusercontent.com/neodix42/ton4j/main/1-media/neo-jetton.png",
+  "symbol": "LKB",
+  "decimals": "8"
+}
